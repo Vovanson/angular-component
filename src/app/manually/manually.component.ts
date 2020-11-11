@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
     selector: 'app-component-manually',
     templateUrl: `<h1>Hello Word!
     <p>This template definition spans
-              multiple lines.</p>`,
+              multiple lines4.</p>`,
     styleUrls:['h1 { font-weight: normal; }']
 })
 
