@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { AvtoGenerateComponent } from './avto-generate/avto-generate.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AvtoGenerateComponent
   ],
   imports: [
     BrowserModule,
